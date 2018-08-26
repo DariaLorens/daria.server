@@ -1,6 +1,7 @@
 package com.lorens.daria.server;
 
 import com.lorens.daria.server.config.WebConfig;
+import com.lorens.daria.server.repository.RecipeRepository;
 import org.springframework.web.WebApplicationInitializer;
 import org.springframework.web.context.ContextLoaderListener;
 import org.springframework.web.context.support.AnnotationConfigWebApplicationContext;
